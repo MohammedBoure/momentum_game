@@ -1,0 +1,26 @@
+{
+  "unlocked_level": 2,
+  "ranks": {
+    "0": "B"
+  },
+  "best_times": {
+    "0": 29.92
+  },
+  "best_styles": {
+    "0": 300
+  },
+  "total_deaths": 1,
+  "total_kills": 2,
+  "total_deflects": 0,
+  "endless_record_wave": 5,
+  "endless_high_score": 2740,
+  "settings": {
+    "master_volume": 0.8,
+    "sfx_volume": 1.0,
+    "music_volume": 0.6,
+    "screen_shake": 1.0,
+    "crt_filter": true,
+    "blood_effects": true,
+    "damage_numbers": true
+  }
+}

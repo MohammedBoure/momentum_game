@@ -61,8 +61,9 @@ An intense, highly stylish cyber-noir tactical action game inspired by *SUPERHOT
 
 ## Quickstart
 
-Run the game directly with Python:
+Install dependencies and run the game:
 
 ```bash
+pip install -r requirements.txt
 python main.py
 ```

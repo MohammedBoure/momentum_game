@@ -1,0 +1,3 @@
+# MOMENTUM: Chrono Blade
+# Graphics, input handling, and procedural sound synthesis
+pygame>=2.5.0
